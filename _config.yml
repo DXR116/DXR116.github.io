@@ -1,4 +1,4 @@
 url: "DXR116.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Dora" # the name of your site, e.g. ACME Corp.
-description: "BLOG"
+description: "我的个人主页"
