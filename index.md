@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+我是代晓蕊，目前在大连理工大学，就读硕士研究生，目前研三。研究方向是联邦学习后门攻击，对隐私安全领域十分感兴趣。
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+作为研三的硕士研究生，我即将毕业，接下来将会去南京地平线工作，我的岗位是软件开发工程师。
